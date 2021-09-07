@@ -30,18 +30,18 @@
 
 #scoreBox {
     position: absolute;
-    font-size: 21px;
+    font-size: 18px;
     color: white;
-    top: 15%;
+    top: 17%;
     left: 10%;
     font-family: 'Press Start 2P', cursive;
 }
 
 #hiscoreBox {
     position: absolute;
-    font-size: 21px;
+    font-size: 17px;
     color: white;
-    top: 20%;
+    top: 22%;
     left: 8%;
     font-family: 'Press Start 2P', cursive;
 }

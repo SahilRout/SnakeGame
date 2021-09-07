@@ -48,9 +48,7 @@
 
 .head {
     background: yellow;
-    border: 2px solid rgb(26, 1, 26);
     transform: scale(1.02);
-    border-radius: 9px;
 }
 
 .snake {

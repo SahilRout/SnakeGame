@@ -8,6 +8,7 @@ let lastPaintTime = 0;
 let snakeArr = [{ x: 13, y: 15 }]
 food = { x: 6, y: 7 };
 let score = 0;
+gameSound.play();
 // Game Functions
 function main(ctime) {
     window.requestAnimationFrame(main);
